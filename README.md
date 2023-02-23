@@ -16,7 +16,7 @@ This program is a simple calculator that can perform serial additions and multip
 ## Usage
 
 1. Clone the repository or download the zip file and extract it.
-2. Open the solution file Calculator.sln in Microsoft Visual Studio.
+2. Add the current project to an excisting or a new solution in Microsoft Visual Studio.
 3. Build the solution.
 4. Run the program.
 
