@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "v3NWegL5dHDuN8qT0SV5lYFRBEMCEj1r1rKMrIsgcw9g4V+5QUuOOUa+BBxdn+UqVT5u3JOEz5TGq/V5Wm+fjQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\ahmaabow100\\source\\repos\\dvgb07\\Calculator\\Calculator.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\ahmaabow100\\.nuget\\packages\\microsoft.netcore.app.runtime.win-x86\\6.0.13\\microsoft.netcore.app.runtime.win-x86.6.0.13.nupkg.sha512",
+    "C:\\Users\\ahmaabow100\\.nuget\\packages\\microsoft.windowsdesktop.app.runtime.win-x86\\6.0.13\\microsoft.windowsdesktop.app.runtime.win-x86.6.0.13.nupkg.sha512",
+    "C:\\Users\\ahmaabow100\\.nuget\\packages\\microsoft.aspnetcore.app.runtime.win-x86\\6.0.13\\microsoft.aspnetcore.app.runtime.win-x86.6.0.13.nupkg.sha512"
+  ],
+  "logs": []
+}
